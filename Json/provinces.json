@@ -1,0 +1,81 @@
+{
+   "Alberta": {
+     "name": "Alberta",
+     "flag": "../Assets/Flag_of_Alberta.svg.png",
+     "description": "Alberta is a province in western Canada known for its stunning Rocky Mountain scenery, vast prairies, and abundant natural resources. It is home to vibrant cities, such as Calgary, Edmonton, and Red Deer.",
+     "cities": ["Calgary", "Edmonton", "Red Deer"]
+   },
+   "British Columbia": {
+     "name": "British Columbia",
+     "flag": "/SYST24444-Assignment2/Assets/Flag_of_British_Columbia.svg.png",
+     "description": "British Columbia is a province on the west coast of Canada, famous for its breathtaking landscapes, including mountains, forests, and coastline. It is known for vibrant cities like Vancouver, Victoria, and Kelowna.",
+     "cities": ["Vancouver", "Victoria", "Kelowna"]
+   },
+   "Manitoba": {
+     "name": "Manitoba",
+     "flag": "/SYST24444-Assignment2/Assets/Manitoba-province-flag-Canada-symbol.webp",
+     "description": "Manitoba is a prairie province in central Canada known for its diverse wildlife, beautiful lakes, and rich Indigenous heritage. Its capital city, Winnipeg, along with Brandon and Steinbach, are major urban centers.",
+     "cities": ["Winnipeg", "Brandon", "Thompson"]
+   },
+   "New Brunswick": {
+     "name": "New Brunswick",
+     "flag": "/SYST24444-Assignment2/Assets/Flag_of_New_Brunswick.svg",
+     "description": "New Brunswick is a province on the east coast of Canada, famous for its stunning coastline, historic sites, and vibrant Acadian culture. The capital city, Fredericton, along with Saint John and Moncton, are popular destinations.",
+     "cities": ["Fredericton", "Saint John", "Moncton"]
+   },
+   "Newfoundland and Labrador": {
+     "name": "Newfoundland and Labrador",
+     "flag": "/SYST24444-Assignment2/Assets/Flag_of_Newfoundland_and_Labrador.svg.png",
+     "description": "Newfoundland and Labrador is Canada's easternmost province, known for its rugged coastline, unique culture, and friendly people. St. John's, Mount Pearl, and Corner Brook are some of its notable cities.",
+     "cities": ["St. Johns", "Mount Pearl", "Corner Brook"]
+   },
+   "Nova Scotia": {
+     "name": "Nova Scotia",
+     "flag": "/SYST24444-Assignment2/Assets/Flag-of-Nova-Scotia.webp",
+     "description": "Nova Scotia is a maritime province in eastern Canada, renowned for its picturesque coastal scenery, historic landmarks, and delicious seafood. Halifax, Cape Breton, and Dartmouth are its prominent cities.",
+     "cities": ["Halifax", "Sydney", "Dartmouth"]
+   },
+   "Ontario": {
+     "name": "Ontario",
+     "flag": "/SYST24444-Assignment2/Assets/Flag-Ontario.webp",
+     "description": "Ontario is Canada's most populous province, located in east-central Canada, known for its diverse cities, iconic landmarks, and the majestic Niagara Falls. Toronto, Ottawa, and Hamilton are its largest cities.",
+     "cities": ["Toronto", "Ottawa", "Hamilton"]
+   },
+   "Prince Edward Island": {
+     "name": "Prince Edward Island",
+     "flag": "/SYST24444-Assignment2/Assets/Flag_of_Prince_Edward_Island.svg.png",
+     "description": "Prince Edward Island is Canada's smallest province, situated on the east coast, famous for its red sand beaches, charming lighthouses, and Anne of Green Gables. Charlottetown, Summerside, and Stratford are its main cities.",
+     "cities": ["Charlottetown", "Summerside", "Montague"]
+   },
+   "Quebec": {
+     "name": "Quebec",
+     "flag": "/SYST24444-Assignment2/Assets/Flag_of_Quebec.svg.webp",
+     "description": "Quebec is a predominantly French-speaking province in eastern Canada, known for its rich history, vibrant culture, and charming Old Quebec City. Montreal, Quebec City, and Laval are its major cities.",
+     "cities": ["Montreal", "Quebec City", "Laval"]
+   },
+   "Saskatchewan": {
+     "name": "Saskatchewan",
+     "flag": "/SYST24444-Assignment2/Assets/1200px-Flag_of_Saskatchewan.svg.png",
+     "description": "Saskatchewan is a prairie province in western Canada, characterized by vast open spaces, beautiful lakes, and a strong agricultural industry. Saskatoon, Regina, and Prince Albert are its notable cities.",
+     "cities": ["Saskatoon", "Regina", "Prince Albert"]
+   },
+   "Northwest Territories": {
+     "name": "Northwest Territories",
+     "flag": "/SYST24444-Assignment2/Assets/Flag_of_the_Northwest_Territories.svg",
+     "description": "Northwest Territories is a northern territory in Canada, known for its stunning wilderness, pristine lakes, and vibrant Indigenous cultures. Yellowknife, Hay River, and Inuvik are some of its prominent cities.",
+     "cities": ["Yellowknife", "Hay River", "Inuvik"]
+   },
+   "Nunavut": {
+     "name": "Nunavut",
+     "flag": "/SYST24444-Assignment2/Assets/Flag_of_Nunavut.svg.png",
+     "description": "Nunavut is Canada's newest and largest territory, located in the Arctic region, renowned for its unique Inuit culture, vast landscapes, and polar wildlife. Iqaluit, Rankin Inlet, and Arviat are its major settlements.",
+     "cities": ["Iqaluit", "Rankin Inlet", "Arviat"]
+   },
+   "Yukon": {
+     "name": "Yukon",
+     "flag": "/SYST24444-Assignment2/Assets/Flag_of_Yukon.svg.png",
+     "description": "Yukon is a territory in northwest Canada, known for its rugged mountains, pristine wilderness, and rich gold rush history. Whitehorse, Dawson City, and Watson Lake are its main cities.",
+     "cities": ["Whitehorse", "Dawson City", "Watson Lake"]
+   }
+ }
+ 
